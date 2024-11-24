@@ -3390,7 +3390,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	typhlosion: {
 		num: 157,
 		name: "Typhlosion",
-		types: ["Fire"],
+		types: ["Fire", "Ground"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 78, atk: 84, def: 78, spa: 109, spd: 85, spe: 120},
 		abilities: {0: "Blaze", H: "Flash Fire"},
